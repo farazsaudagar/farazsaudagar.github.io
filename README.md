@@ -67,6 +67,6 @@ MIT License - feel free to use this as a template for your own portfolio!
 
 ## Contact
 
-- Email: faraz@example.com
+- Email: contact@farazsaudagar.com
 - LinkedIn: [linkedin.com/in/farazsaudagar](https://linkedin.com/in/farazsaudagar)
 - GitHub: [github.com/farazsaudagar](https://github.com/farazsaudagar)
