@@ -45,20 +45,20 @@ const App = () => {
   const blogPosts = [
     {
       title: 'Building AI-Powered Developer Tools',
-      excerpt: 'Exploring the intersection of AI and developer productivity...',
+      excerpt: 'Exploring the intersection of AI and developer productivity to create meaningful automation solutions...',
       tags: ['AI', 'Developer Tools', 'Productivity'],
       date: '2024-04-15'
     },
     {
-      title: 'The Art of Bug Bounty Hunting',
-      excerpt: 'My journey into the world of cybersecurity and bug bounty hunting...',
-      tags: ['Security', 'Bug Bounty', 'Web Security'],
+      title: 'System Design Principles for Legacy Modernization',
+      excerpt: 'Strategic approaches to rebuilding enterprise systems while maintaining business continuity...',
+      tags: ['System Design', 'Legacy Systems', '.NET'],
       date: '2024-04-10'
     },
     {
-      title: 'Modernizing Legacy Systems',
-      excerpt: 'Strategies and challenges in modernizing enterprise applications...',
-      tags: ['Legacy Systems', 'Modernization', 'WPF'],
+      title: 'Crafting Tools That Matter',
+      excerpt: 'The philosophy behind building software that genuinely improves developer workflows and productivity...',
+      tags: ['Developer Experience', 'Tool Building', 'Philosophy'],
       date: '2024-04-05'
     }
   ]
@@ -169,17 +169,17 @@ const App = () => {
                 I hold a BSc in Computer Science from the University of Guelph.
               </p>
               <p className="mb-4">
-                My passion lies at the intersection of AI, cybersecurity, and developer tools. I'm particularly interested in
-                AI-powered solutions, cyber justice initiatives, and bug bounty hunting.
+                My passion lies in system design, developer productivity, and building meaningful software tools. I focus on
+                creating AI-powered internal tools that enhance workflows and solve real problems for development teams.
               </p>
             </div>
             <div className="retro-border p-6">
               <h3 className="text-xl font-bold mb-4">Current Focus</h3>
               <ul className="space-y-2">
-                <li>• Rebuilding legacy systems with modern tech</li>
-                <li>• Developing AI-powered tools</li>
-                <li>• Contributing to cyber justice</li>
-                <li>• Bug bounty hunting</li>
+                <li>• Rebuilding legacy systems with modern architecture</li>
+                <li>• Developing AI-powered internal tools</li>
+                <li>• System design and developer productivity</li>
+                <li>• Building tools that genuinely matter</li>
               </ul>
             </div>
           </div>
@@ -237,20 +237,16 @@ const App = () => {
           <h2 className="text-3xl font-bold mb-8">Now</h2>
           <div className="timeline">
             <div className="timeline-item">
-              <h3 className="text-xl font-bold mb-2">AI Tools Development</h3>
-              <p>Building AI-powered developer tools to enhance productivity</p>
+              <h3 className="text-xl font-bold mb-2">AI-Powered Developer Tools</h3>
+              <p>Building internal tools that enhance developer productivity and streamline complex workflows</p>
             </div>
             <div className="timeline-item">
-              <h3 className="text-xl font-bold mb-2">Brazilian Jiu-Jitsu</h3>
-              <p>Training in BJJ and improving my ground game</p>
+              <h3 className="text-xl font-bold mb-2">Legacy System Modernization</h3>
+              <p>Architecting and implementing modern solutions for enterprise applications using .NET 8 and WPF</p>
             </div>
             <div className="timeline-item">
-              <h3 className="text-xl font-bold mb-2">Spiritual Routine</h3>
-              <p>Practicing intentional living and mindfulness</p>
-            </div>
-            <div className="timeline-item">
-              <h3 className="text-xl font-bold mb-2">Bug Bounty Hunting</h3>
-              <p>Learning and practicing web security and bug hunting</p>
+              <h3 className="text-xl font-bold mb-2">System Design Learning</h3>
+              <p>Deepening understanding of scalable architecture patterns and design principles</p>
             </div>
           </div>
         </div>
